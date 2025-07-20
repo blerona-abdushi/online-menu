@@ -16,7 +16,6 @@ const settingRoutes = require("./routes/setting");
 const app = express();
 
 const allowedOrigins = [
-  "https://verbose-lamp-pjwgw5xvwxx626w65-5173.app.github.dev",
   "https://online-menu-snowy.vercel.app",
   "http://localhost:5173", // for local dev
 ];
