@@ -33,7 +33,8 @@ This project demonstrates building a full-stack system with role-based managemen
 
 role-based access control
 
-🔗 [Live Demo] ("online-menu-snowy.vercel.app")
+🔗 [Live Demo](https://online-menu-snowy.vercel.app)
+
 
 personalized user interface
 
